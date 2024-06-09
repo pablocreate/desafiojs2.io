@@ -1,0 +1,11 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+a,ul{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:400;
+    font-style: inherit;
+    margin: 10px;
+}
